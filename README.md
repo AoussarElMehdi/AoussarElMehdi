@@ -56,7 +56,5 @@
   <img align="left"  width="400" height="250" src="https://github-readme-stats.vercel.app/api/?username=AoussarElMehdi&count_private=true&theme=tokyonight&showicons=true&include_all_commits=true&show_icons=true" alt="aoussarelmehdi" />
 </p>
 <p>
-  <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoussarElMehdi&langs_count=5&theme=tokyonight&layout=compact&show_icons=true" alt="aoussarelmehdi" />
+  <img align="right" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoussarElMehdi&langs_count=6&theme=tokyonight&layout=compact&show_icons=true" alt="aoussarelmehdi" />
 </p>
-
-
