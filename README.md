@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **elmehdiaoussar.contact@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TsfL00X8wVxIDds8hnr99aQfNXYdlHMl/view?usp=sharing](https://drive.google.com/file/d/1TsfL00X8wVxIDds8hnr99aQfNXYdlHMl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TsfL00X8wVxIDds8hnr99aQfNXYdlHMl/view](https://drive.google.com/file/d/1TsfL00X8wVxIDds8hnr99aQfNXYdlHMl/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
