@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aoussarelmehdi&label=Profile%20views&color=0e75b6&style=flat" alt="aoussarelmehdi" /> </p>
 
-- 🔭 I’m currently working on **MERN application**
+- 🔭 I’m currently working on **End of studies project**
 
 - 🌱 I’m currently learning **Cloud, Big DATA, Virtualisation, React Native, Laravel**
 
